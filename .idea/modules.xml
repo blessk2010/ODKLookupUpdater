@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ODKLookupUpdater.iml" filepath="$PROJECT_DIR$/ODKLookupUpdater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ODKLookupUpdater.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ODKLookupUpdater.app.iml" />
+    </modules>
+  </component>
+</project>
